@@ -41,6 +41,9 @@ Example:
 ./guess.sh m 3
 3 2 3 tug of war
 4 3 5 fish and chips
+
+./guess.sh m 2 | grep "6 8"
+6 8 mashed potatoes
 ```
 
 
