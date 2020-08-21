@@ -1,7 +1,9 @@
 top hat
 car wash
 ice cream
+eye drops
 hot chocolate
+air conditioner
 fish tank
 king kong
 hair spray
@@ -9,6 +11,7 @@ hang glide
 time machine
 fried egg
 black hole
+onion rings
 tooth fairy
 pizza cutter
 horse riding
@@ -18,11 +21,13 @@ water bottle
 police car
 school bus
 secret agent
+ferris wheel
 mashed potatoes
 fishing rod
 grizzly bear
 chicken nuggets
 dressing gown
 skipping rope
+swimming pool
 tug of war
 fish and chips
